@@ -1,8 +1,8 @@
 # Official Soul Realms Modpack
 This modpack contains a bundle of Performance Mods, Improvements, and Utilities for [Soul Realms](https://discord.soulrealms.net/), the RPG Origins Survival Experience.
 
-[<img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/modpack/soul-realms-official-modpack)
-[<img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/JosTheDude/soul-realms-official-modpack/)
+[<img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg">](https://modrinth.com/modpack/soul-realms)
+[<img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg">](https://github.com/StarnovaStudios/soul-realms-modpack)
 
 This modpack is recommended while playing on Soul Realms and features vastly improved performance, compatability, and voice chat support!
 
