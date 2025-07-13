@@ -1,0 +1,16 @@
+filename = 'low-fire-reborn-1.0.2.jar'
+name = 'Low Fire Reborn'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.4' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '02b5cb6e90e8a59d158cf5273db8733635a4c6f9ed7b1aed30ff43d51e08456cc26fc78dd00a1b10ab8ac80937fe59ffaea038da6e279f5aa7410cdb844a47e8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9ZPMzrQQ/versions/vPKamAN2/low-fire-reborn-1.0.2.jar'
+
+[update.modrinth]
+mod-id = '9ZPMzrQQ'
+version = 'vPKamAN2'

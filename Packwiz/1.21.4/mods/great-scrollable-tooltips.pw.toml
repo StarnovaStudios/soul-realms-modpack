@@ -1,0 +1,44 @@
+filename = 'great-scrollable-tooltips-16.2.0-beta.1+fabric.jar'
+name = 'Great Scrollable Tooltips'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21.2',
+    '1.21.2 Pre-Release 1',
+    '1.21.2 Pre-Release 2',
+    '1.21.2 Pre-Release 3',
+    '1.21.2 Pre-Release 4',
+    '1.21.2 Pre-Release 5',
+    '1.21.2 rc1',
+    '1.21.2 rc2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4 Pre-Release 1',
+    '1.21.4 Pre-Release 2',
+    '1.21.4 Pre-Release 3',
+    '1.21.4 rc1',
+    '1.21.4 rc2',
+    '1.21.4 rc3',
+    '24w33a',
+    '24w34a',
+    '24w35a',
+    '24w36a',
+    '24w37a',
+    '24w38a',
+    '24w39a',
+    '24w40a',
+    '24w44a',
+    '24w45a',
+    '24w46a'
+]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'a6b5418894c611eb2511d4685b9ba70d765326aa4341f6a3bd5d6443bdbd7af424da9f7ac57043cb664498d904cbd6bfdfb1cbe44067fc5bb98671b601b73775'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mzNYT2LK/versions/ZemzjtZP/great-scrollable-tooltips-16.2.0-beta.1%2Bfabric.jar'
+
+[update.modrinth]
+mod-id = 'mzNYT2LK'
+version = 'ZemzjtZP'

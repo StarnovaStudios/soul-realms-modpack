@@ -1,0 +1,5 @@
+# Exclude Exports
+Packwiz/exports
+
+# Exclude exported Modrinth modpacks
+*.mrpack
