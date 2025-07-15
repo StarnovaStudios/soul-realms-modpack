@@ -28,7 +28,9 @@ for dir in */ ; do
         #packwiz curseforge export -o "$EXPORTS_DIR/${dir_name}/Soul-Realms-Modpack-${dir_name}-${version}.zip"
         
         # Modrinth Export
-        packwiz modrinth export -o "$EXPORTS_DIR/${dir_name}/Soul-Realms-Modpack-${dir_name}-${version}.mrpack"
+        packwiz modrinth export -o "$EXPORTS_DIR/${dir_name}/Soul-Realms-Modpack-MR-${dir_name}-${version}.mrpack"
+
+	packwiz curseforge export -o "$EXPORTS_DIR/${dir_name}/Soul-Realms-Modpack-CF-${dir_name}-${version}.zip" 
 
         cd ..
 

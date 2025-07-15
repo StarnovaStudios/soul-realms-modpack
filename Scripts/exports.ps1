@@ -15,6 +15,8 @@ if (-not (Test-Path -Path $exportsDir)) {
 }
 
 # Iterate over directories in the current folder
+
+# Modrinth
 Get-ChildItem -Directory | Where-Object { $_.Name -ne "exports" } | ForEach-Object {
     $dirName = $_.Name
     $fullDirPath = $_.FullName
@@ -31,8 +33,39 @@ Get-ChildItem -Directory | Where-Object { $_.Name -ne "exports" } | ForEach-Obje
         Push-Location $fullDirPath
 
         # Run packwiz modrinth export
-        $outputFile = Join-Path $exportSubDir "Soul-Realms-Modpack-$dirName-$version.mrpack"
+        $outputFile = Join-Path $exportSubDir "Soul-Realms-Modpack-MR-$dirName-$version.mrpack"
         & packwiz modrinth export -o $outputFile
+
+        Pop-Location
+
+        Write-Host "Exported $dirName successfully.`n"
+    } catch {
+        Write-Warning "Failed to process ${dirName}: $_"
+        if ($null -ne (Get-Location -ErrorAction SilentlyContinue)) {
+            Pop-Location
+        }
+    }
+}
+
+# Curseforge
+Get-ChildItem -Directory | Where-Object { $_.Name -ne "exports" } | ForEach-Object {
+    $dirName = $_.Name
+    $fullDirPath = $_.FullName
+    $exportSubDir = Join-Path $exportsDir $dirName
+
+    Write-Host "Processing directory: $dirName"
+
+    try {
+        # Create subdirectory for exports
+        if (-not (Test-Path -Path $exportSubDir)) {
+            New-Item -ItemType Directory -Path $exportSubDir | Out-Null
+        }
+
+        Push-Location $fullDirPath
+
+        # Run packwiz modrinth export
+        $outputFile = Join-Path $exportSubDir "Soul-Realms-Modpack-CF-$dirName-$version.zip"
+        & packwiz curseforge export -o $outputFile
 
         Pop-Location
 
