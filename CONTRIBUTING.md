@@ -1,4 +1,4 @@
-# Contributing to Developer Toolkit
+# Contributing to the Soul Realms Modpack
 
 First off, thanks for taking the time to contribute! ❤️
 
@@ -27,7 +27,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[Developer Toolkit Code of Conduct](https://github.com/JosTheDude/developer-toolkit/blob/main/CODE_OF_CONDUCT.md).
+[Soul Realms Modpack Code of Conduct](https://github.com/StarnovaStudios/soul-realms-modpack/blob/main/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior to conduct@jos.gg.
 
 
@@ -88,7 +88,7 @@ Once it's filed:
 
 ### Suggesting Enhancements
 
-This section guides you through submitting an enhancement suggestion for Developer Toolkit, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
+This section guides you through submitting an enhancement suggestion for the Soul Realms Modpack, **including completely new features and minor improvements to existing functionality**. Following these guidelines will help maintainers and the community to understand your suggestion and find related suggestions.
 
 #### Before Submitting an Enhancement
 
@@ -105,7 +105,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/JosThe
 - Use a **clear and descriptive title** for the issue to identify the suggestion.
 - Provide relevant details for your enhancement, such as new mods, replacement mods, scripts, etc.
 - **Describe the current behavior** and **explain which behavior you expected to see instead or new behavior added** and why. At this point you can also tell which alternatives do not work for you.
-- **Explain why this enhancement would be useful** to most Developer Toolkit users.
+- **Explain why this enhancement would be useful** to most the modpacks' users.
 
 ### Your First Code Contribution
 <!-- TODO
