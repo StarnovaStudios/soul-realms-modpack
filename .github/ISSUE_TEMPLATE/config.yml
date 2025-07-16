@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Soul Realms Discord Support
-    url: https://discord.soulrealms.net/
-    about: You can open Support Tickets for assistance in our Discord Server
-  - name: Soul Realms Email Support
-    url: mailto:support@soulrealms.net
+  - name: "Soul Realms Discord Support"
+    url: "https://discord.soulrealms.net/"
+    about: "You can open Support Tickets for assistance in our Discord Server"
+  - name: "Soul Realms Email Support"
+    url: "mailto:support@soulrealms.net"
     about: "Don't have Discord? You can also reach out via email."
