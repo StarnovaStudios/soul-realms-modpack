@@ -1,4 +1,4 @@
-# Code of Conduct - Developer Toolkit
+# Code of Conduct - Soul Realms Modpack
 
 ## Our Pledge
 
