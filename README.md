@@ -3,6 +3,7 @@ This modpack contains a bundle of Performance Mods, Improvements, and Utilities 
 
 [![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.soulrealms.net/)
 [![modrinth link](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/modpack/soul-realms)
+[![github link](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/StarnovaStudios/soul-realms-modpack)
 
 This modpack is recommended while playing on Soul Realms and features vastly improved performance, compatability, and voice chat support!
 
