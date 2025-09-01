@@ -14,6 +14,7 @@ This modpack is recommended while playing on Soul Realms and features vastly imp
 - Peek | Peek inside of Shulkers, Chests, and more!
 - Low Fire | Self Explanatory.
 - Iris Shaders | Shader Support w/ Bundled Complementary Shaders!
+- Pack Improvements | Mods that make the Soul Realms experience more seamless.
 - Over 25+ Well-Optimized Pre-Configured Performance Mods
 
 ## Miscellaneous Information
