@@ -1,0 +1,13 @@
+name = "Soul Realms Modpack"
+author = "JosTheDude"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ba85d0df48996d3b79062e725b1accd0a58881c7dfff9a5db64931db8ed9e45e"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.8"
