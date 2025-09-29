@@ -11,6 +11,7 @@ This modpack is recommended while playing on Soul Realms and features vastly imp
 - Simple Voice Chat | Press `[V]` to Configure
 - Controllify | Controller Support
 - Scrollable Tooltips | Allows scrolling item descriptions/lore
+- Scribble | An advanced in-game book editor for colors & more!
 - Peek | Peek inside of Shulkers, Chests, and more!
 - Low Fire | Self Explanatory.
 - Iris Shaders | Shader Support w/ Bundled Complementary Shaders!
