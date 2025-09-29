@@ -58,7 +58,7 @@ hash = "15eec0092ca5c54f97fc46953311e20e63a5eb6bca4672bfec9dae63f61cc456"
 
 [[files]]
 file = "config/yosbs/options.txt"
-hash = "d92db8b1136f53203c24b6acef16f78554e4326f3599d6a85635b98eb2b06d2b"
+hash = "6aaff36c662b8031969240ee21d650a2201d1aad0be510f9b60985bb1c42ad84"
 
 [[files]]
 file = "config/yosbs/servers.dat"
@@ -81,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "37a2e1e0ad0a67052a1a1edf4c1819cbcf0a00d4ebb16f65ae8f2c1b52e800f8"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
 metafile = true
 
 [[files]]
