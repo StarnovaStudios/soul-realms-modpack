@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ffc35cee2eeb4a9c854e062ace8cfa89cf8724390c044eec4c5200446929c24c"
+hash = "1a0481b1f8bd7f92cc6095794da36f0a7de9133b48a8cccb196ac35809b4dceb"
 metafile = true
 
 [[files]]
@@ -206,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "551b111c1acc408d9993c62617d99d38a14bcb94875a20f0e0a4e4b257ad68e2"
+metafile = true
+
+[[files]]
+file = "mods/tooltip-scroll.pw.toml"
+hash = "e117932195358aa2386264da4cdc63d17397862748f1cbc2f3da3db066c9965c"
 metafile = true
 
 [[files]]
