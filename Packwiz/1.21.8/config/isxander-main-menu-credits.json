@@ -2,7 +2,7 @@
   "main_menu": {
     "bottom_right": [
       {
-        "text": "Soul Realms Official Modpack 1.1.0 (Based on Simply Optimized)",
+        "text": "Soul Realms Official Modpack 1.1.1 (Based on Simply Optimized)",
         "clickEvent": {
           "action": "open_url",
           "value": "https://github.com/StarnovaStudios/soul-realms-modpack"
